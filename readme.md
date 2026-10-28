@@ -1,0 +1,1 @@
+//Este es el quiz 1 de programacion aplicada (28/10/2026). Hicimos un repositorio desde VScode y lo conectamos a github
